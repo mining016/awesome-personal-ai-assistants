@@ -107,7 +107,7 @@ Contributions welcome! Add open-source, local-first projects via PR. Criteria:
 - Must emphasize personal use, privacy, local execution.
 - Actively maintained (updates in last 6 months).
 - Real task capabilities (not just chatbots).
-- Format: - **[Name](link)** - Short desc. Stars: ~Xk.
+- Format: - `**[Name](link)**` - Short desc. Stars: ~Xk.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
