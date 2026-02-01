@@ -1,5 +1,7 @@
 # awesome-personal-ai-assistants
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/mining016/awesome-personal-ai-assistants?style=social)](https://github.com/mining016/awesome-personal-ai-assistants)
 A curated list of awesome personal AI assistants, local-first autonomous agents, self-hosted AI tools, and action-oriented bots (featuring OpenClaw 🦞 and similar projects).
 
 > Inspired by the awesome lists movement. Focused on privacy-first, local-running, task-executing AI agents that go beyond chat-handling emails, calendars, shell commands, web browsing, file ops, and proactive workflows. Unlike broader AI agent lists, this emphasizes personal use cases (e.g., JARVIS-style assistants on your own hardware, via messaging apps like WhatsApp or iMessage). OpenClaw (formerly Moltbot/Clawdbot) is highlighted as the flagship due to its viral growth and extensibility in early 2026.
