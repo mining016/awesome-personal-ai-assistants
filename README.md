@@ -2,7 +2,7 @@
 
 A curated list of awesome personal AI assistants, local-first autonomous agents, self-hosted AI tools, and action-oriented bots (featuring OpenClaw 🦞 and similar projects).
 
-> Inspired by the awesome lists movement. Focused on privacy-first, local-running, task-executing AI agents that go beyond chat—handling emails, calendars, shell commands, web browsing, file ops, and proactive workflows. Unlike broader AI agent lists, this emphasizes personal use cases (e.g., JARVIS-style assistants on your own hardware, via messaging apps like WhatsApp or iMessage). OpenClaw (formerly Moltbot/Clawdbot) is highlighted as the flagship due to its viral growth and extensibility in early 2026.
+> Inspired by the awesome lists movement. Focused on privacy-first, local-running, task-executing AI agents that go beyond chat-handling emails, calendars, shell commands, web browsing, file ops, and proactive workflows. Unlike broader AI agent lists, this emphasizes personal use cases (e.g., JARVIS-style assistants on your own hardware, via messaging apps like WhatsApp or iMessage). OpenClaw (formerly Moltbot/Clawdbot) is highlighted as the flagship due to its viral growth and extensibility in early 2026.
 
 ## Contents
 
@@ -22,15 +22,9 @@ The flagship: OpenClaw 🦞 is an open-source, self-hosted personal AI assistant
 **Name history (all the same project!)**:  
 - Originally released in late 2025 as **Clawdbot** (inspired by Anthropic's Claude "Clawd" mascot).  
 - Renamed to **Moltbot** shortly after viral growth due to a trademark concern from Anthropic (to avoid confusion with their Claude branding). "Molting" symbolized growth, like a lobster shedding its shell.  
-- Final rebrand in late January 2026 to **OpenClaw** — emphasizing open-source roots while keeping the lobster theme ("Claw" + "Open").  
+- Final rebrand in late January 2026 to **OpenClaw** - emphasizing open-source roots while keeping the lobster theme ("Claw" + "Open").  
 
-This triple rebrand happened quickly amid hype, security discussions, and even some scams exploiting old names. All versions refer to the identical core software—just evolving branding.
-
-Sources for the history:  
-- [Official announcement: Introducing OpenClaw](https://openclaw.ai/blog/introducing-openclaw) (creator's explanation of the journey and why OpenClaw sticks).  
-- [Wikipedia: OpenClaw](https://en.wikipedia.org/wiki/OpenClaw) (timeline including Anthropic trademark request).  
-- [CNET: From Clawdbot to Moltbot to OpenClaw](https://www.cnet.com/tech/services-and-software/from-clawdbot-to-moltbot-to-openclaw) (covers the chaotic rebrands and lobster heritage).  
-- [Forbes: Moltbot Molts Again and Becomes OpenClaw](https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow) (context on rapid changes and community impact).
+This triple rebrand happened quickly amid hype, security discussions, and even some scams exploiting old names. All versions refer to the identical core software-just evolving branding.
 
 - **[OpenClaw](https://github.com/openclaw/openclaw)** - Core repo: Local AI agent for task execution, long-term memory, and integrations. Stars: ~100k (as of early 2026). Official site: [openclaw.ai](https://openclaw.ai).
 - **[OpenClaw Discord](https://discord.gg/openclaw-community)** - Active community for setups, troubleshooting, and sharing skills.
@@ -118,4 +112,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
-This list is released under the [CC0 License](LICENSE) (public domain).
+This list is released under the [MIT](LICENSE) .
