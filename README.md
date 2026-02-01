@@ -1,4 +1,4 @@
-# awesome-personal-ai-assistants
+# Awesome Personal AI Assistants
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/mining016/awesome-personal-ai-assistants?style=social)](https://github.com/mining016/awesome-personal-ai-assistants)
@@ -16,7 +16,6 @@ A curated list of awesome personal AI assistants, local-first autonomous agents,
 - [Security and Best Practices](#security-and-best-practices)
 - [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## OpenClaw Ecosystem
 
@@ -29,24 +28,22 @@ The flagship: OpenClaw 🦞 is an open-source, self-hosted personal AI assistant
 
 This triple rebrand happened quickly amid hype, security discussions, and even some scams exploiting old names. All versions refer to the identical core software-just evolving branding.
 
-- **[OpenClaw](https://github.com/openclaw/openclaw)** - Core repo: Local AI agent for task execution, long-term memory, and integrations. Stars: ~100k (as of early 2026). Official site: [openclaw.ai](https://openclaw.ai).
-- **[OpenClaw Discord](https://discord.gg/openclaw-community)** - Active community for setups, troubleshooting, and sharing skills.
-- **[OpenClaw Security Guide](https://openclaw.ai/docs/security)** - Official best practices for sandboxing and key management.
-- **[awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** - Curated 700+ skills (e.g., email, browser, finance). Stars: ~5k. Focus: Community extensions.
-- Popular forks/setups:
-  - **[openclaw-voice](https://github.com/community/openclaw-voice)** - Voice integration via Whisper/STT.
-  - **[openclaw-multi-agent](https://github.com/dev/openclaw-multi-agent)** - Examples for team-of-agents workflows.
-- Guides: [Local Mac Mini Setup](https://openclaw.ai/guides/mac-mini), [WSL Windows Integration](https://openclaw.ai/guides/wsl).
+- [OpenClaw](https://github.com/openclaw/openclaw) - Core repo: Local AI agent for task execution, long-term memory, and integrations. Stars: ~100k (as of early 2026).
+- [OpenClaw Discord](https://discord.gg/openclaw-community) - Active community for setups, troubleshooting, and sharing skills.
+- [OpenClaw Security Guide](https://openclaw.ai/docs/security) - Official best practices for sandboxing and key management.
+- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Curated 700+ skills (e.g., email, browser, finance). Stars: ~5k.
+- [openclaw-voice](https://github.com/community/openclaw-voice) - Voice integration via Whisper/STT.
+- [openclaw-multi-agent](https://github.com/dev/openclaw-multi-agent) - Examples for team-of-agents workflows.
 
 ## Other Local/Self-Hosted Personal AI Assistants
 
 Curated projects similar to OpenClaw: Privacy-focused, offline-capable, action-oriented for personal productivity.
 
-- **[LocalGPT](https://github.com/PromtEngineer/localGPT)** - Chat with documents locally using GPT models; no data leaks. Stars: ~50k. Why awesome: Secure, private querying.
-- **[PrivateGPT](https://github.com/imartinez/privateGPT)** - Interact with docs offline, 100% private. Stars: ~40k. Focus: No internet needed.
-- **[DB-GPT](https://github.com/csunny/DB-GPT)** - Local GPT for data/environment interaction; secure and private. Stars: ~20k.
-- **[Open Interpreter](https://github.com/KillianLucas/open-interpreter)** - Local code execution agent; runs shell commands safely. Stars: ~30k.
-- **[AgentRunner.ai](https://github.com/agentrunner/agentrunner)** - Train autonomous agents locally with GPT-4. Stars: ~10k.
+- [LocalGPT](https://github.com/PromtEngineer/localGPT) - Chat with documents locally using GPT models; no data leaks. Stars: ~50k.
+- [PrivateGPT](https://github.com/imartinez/privateGPT) - Interact with docs offline, 100% private. Stars: ~40k.
+- [DB-GPT](https://github.com/csunny/DB-GPT) - Local GPT for data/environment interaction; secure and private. Stars: ~20k.
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Local code execution agent; runs shell commands safely. Stars: ~30k.
+- [AgentRunner.ai](https://github.com/agentrunner/agentrunner) - Train autonomous agents locally with GPT-4. Stars: ~10k.
 - [Leon](https://github.com/leon-ai/leon) - Open-source personal assistant; offline, privacy-first. Stars: ~17k. Features: Speech-to-text, automation.
 - [HyperWrite](https://github.com/hyperwrite/hyperwrite) - Personal writing/editing assistant; local options. Stars: ~15k.
 - [AI Agents](https://github.com/ai-agents/ai-agents) - Productivity-focused local agents. Stars: ~8k.
@@ -83,7 +80,7 @@ Extensible add-ons for personal agents (general + OpenClaw-specific).
   - Browser & Automation (11 items): Puppeteer-based.
   - Security (6 items): Password managers.
 
-## Security and Best Practices 🔒
+## Security and Best Practices
 
 Critical for local agents with access to personal data.
 
