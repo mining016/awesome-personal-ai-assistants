@@ -1,5 +1,4 @@
-# Awesome Personal AI Assistants
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Personal AI Assistants [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/mining016/awesome-personal-ai-assistants?style=social)](https://github.com/mining016/awesome-personal-ai-assistants)
 
@@ -15,7 +14,6 @@ A curated list of awesome personal AI assistants, local-first autonomous agents,
 - [Skills, Plugins, and Extensions](#skills-plugins-and-extensions)
 - [Security and Best Practices](#security-and-best-practices)
 - [Related Awesome Lists](#related-awesome-lists)
-- [Contributing](#contributing)
 
 ## OpenClaw Ecosystem
 
